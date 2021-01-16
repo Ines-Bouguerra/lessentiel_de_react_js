@@ -1,0 +1,14 @@
+L'essentiel de Reactjs
+
+React est une iliothèque JS 
+Développée par Faceook à partir de 2011(sur insta 2012)
+open source en 2013
+
+React et le virtual DOM :
+    React:trés rapide
+    Utilisation intelligente du DOM 
+
+**DOM:est la manière que notre navigateur voie la page web
+il s'agit d'une collection de données imriquées les ins des autres.
+JS agit sur le dom reel directement et cela consomme plus de temps et de ressources
+c'est pour cela intervient le virtual dom avec react
